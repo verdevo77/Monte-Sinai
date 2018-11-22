@@ -1,0 +1,44 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(-90deg,black,#1162ac);
+}
+
+.Titu {
+    margin-top: 5%;
+    color: white;
+}
+.fondoser {
+    margin-top:-1%;
+    margin-left:30%;
+    margin-bottom:25%;
+    position: fixed;
+    background-size: cover;
+    filter: blur(3px);
+    z-index:100;
+
+
+}
+.contenido ul{
+    margin-top:0%;
+    margin-left:20%;
+    color:darkslategray;
+}
+.contenido ul a{
+    color:white;
+}
+.subtext{
+   margin-top:2%;
+   color:white;
+}
+
+.inforoll {
+    margin: -46%;
+    margin-top: 4%;
+    background: rgb(26, 1, 1);
+    color: transparent;
+    position: absolute;
+    padding-right: 20px;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,79 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(-90deg,black,#1162ac);
+}
+.FONDOIN {
+    margin-top:5%;
+    filter: blur(2px);
+    z-index: unset;
+}
+
+.Titulo {
+    margin-top: 5%;
+    color: white;
+    z-index: auto;
+    z-index:auto;
+}
+
+.informacion {
+    width: 420px;
+    height: 320px;
+    color: transparent;
+    color: azure;
+    margin-top: 5%;
+    text-align: justify;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 40px 40px;
+}
+.login {
+    width: 300px;
+    height: 420px;
+    background: transparent;
+    color: black;
+    top: 80%;
+    margin-left: 250%;
+    position: absolute;
+    transform: translate(-80%, -70%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 50px;
+}
+
+    .login input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+        .login input[type="text"],
+        .login input[type="password"]
+     {
+            border: none;
+            border-bottom: 1px solid transparent;
+            background: transparent;
+        }
+
+        .login input[type="submit"] {
+            border: none;
+            outline: none;
+            height: 40px;
+            background: red;
+            color: #fff;
+            font-size: 18px;
+            border-radius: 20px;
+        }
+    .login h1 {
+        margin: 0;
+        padding: 0 0 20px;
+        text-align: center;
+        font-size: 42px;
+        
+    }
+
+    .login label {
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        display: block;
+    }

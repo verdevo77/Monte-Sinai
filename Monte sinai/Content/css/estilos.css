@@ -1,0 +1,69 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+  
+   
+}
+.FONDOIN {
+   height:100vh;
+   width:100%;
+   margin-left:-50px;
+   z-index: -100;
+ 
+
+   position:absolute;
+}
+.Titulo {
+    padding-top: 35px;
+    padding-left: 280px;
+    margin-top:-67%;
+    color: white;
+    z-index:auto;
+}
+.mivi {
+    text-align: justify;
+    display: flex;
+    margin-top:5%;
+    
+
+}
+.Mision {
+    margin-left: 0%;
+    margin-right: 0%;
+    color:white;
+}
+
+.Vision {
+    margin-left: 40%;
+    margin-right: 0%;
+    color:white;
+}
+.dir{
+    color:aliceblue;
+}
+.Contacto {
+    color: aliceblue;
+}
+.abajo ul  {
+    text-decoration: none;
+    list-style: none;
+    margin-left: 70%;
+    margin-top:-2%;
+    display: flex;
+}
+
+.fac {
+    margin-right: 5%;
+    margin-top: 35px;
+}
+.twi {
+    margin-right: 10%;
+    margin-top: 35px;
+}
+.you {
+    margin-right: 15%;
+    margin-top: 35px;
+}
+.dir {
+    margin-top: 17%;
+}
